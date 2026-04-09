@@ -1,0 +1,5 @@
+{
+  "name": "InstaSpot",
+  "description": "Intelligent parking spot finder and management system with AI-powered insights.",
+  "requestFramePermissions": ["geolocation"]
+}

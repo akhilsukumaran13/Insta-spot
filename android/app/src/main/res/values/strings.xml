@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">InstaSpot Parking</string>
+    <string name="title_activity_main">InstaSpot Parking</string>
+    <string name="package_name">com.instaspot.app</string>
+    <string name="custom_url_scheme">com.instaspot.app</string>
+</resources>
